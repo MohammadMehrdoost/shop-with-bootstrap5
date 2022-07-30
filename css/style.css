@@ -1,0 +1,22 @@
+*{
+    font-family: vazir;
+}
+.bg-option{
+    background: #1b2a4e;
+}
+.card-title{
+    line-height: 3;
+}
+.card-body{
+    line-height: 2.5;
+
+}
+.social img{
+    max-width:40%;
+}
+.noline{
+    text-decoration: none !important;
+}
+img{
+    width: 100%;
+}
